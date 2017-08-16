@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+}
+
+body {
+    width: 600px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+
+
+h1 {
+    color: red;
+    align-content: center;
+
+}
+
+
+h2 {
+
+    color: navy;
+    margin-left: 20px;
+}
+
+
+
